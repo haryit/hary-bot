@@ -47,7 +47,7 @@ emeraldawal: 5,
 umpanawal: 5,
 potionawal: 1
 }
-global.thumb = fs.readFileSync('https://xiitkj1.my.id/logo.png')
+global.thumb = fs.readFileSync('logo.png')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
