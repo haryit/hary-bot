@@ -1,7 +1,7 @@
 {
-  "name": "Zim Bot Inc",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/zim-bot/zimbot-v2",
+  "name": "HARY-IT",
+  "description": "Make Your Heart Comfortable",
+  "repository": "https://github.com/haryit/hary-bot",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
