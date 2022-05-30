@@ -22,7 +22,7 @@ async function startZimBotInc() {
     const ZimBotInc = ZimBotIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['SUB DRIPS OFC','Safari','1.0.0'],
+        browser: ['HARY-IT','Safari','1.0.0'],
         auth: state,
         version
     })
