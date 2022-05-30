@@ -25,10 +25,10 @@ global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
 global.mess = {
-    success: 'Takaenda Done!',
+    success: 'Done!',
     admin: '*This feature is only for admin!*',
     botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    owner: '*this feature is only for owner*',
     group: '*Feature is only for groups!*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
