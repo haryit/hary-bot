@@ -1,7 +1,7 @@
 {
-  "name": "Zim-bot",
+  "name": "HARY-IT",
   "version": "1.0.0",
-  "description": "Multi device wa bot created by Zim Bot Inc.",
+  "description": "Multi device WhatsApp",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
